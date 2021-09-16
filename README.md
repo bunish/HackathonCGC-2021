@@ -1,11 +1,4 @@
-Please Read this :-
-
-to start the project you have to go to applicationlayer (FOLDER) and open the Doctorpatient.php
-
-
-There is an expected error in the patient and doctor login but once you login this error will vanish
-
-
-The project database structure is in the datalayer (FOLDER) - SQL DATABASE EXPORT 
-and its called registration(1)
+This Project is made by Bunish Sachdeva and Shwet Singh in Hackathon organized by CGC Tehcnical Campus Jhanjheri on Enginner's day i.e. 15 Sept, 2021
+Bunish Sachdeva: https://github.com/bunish/
+Shwet Singh: https://github.com/Shwetcgc
 # CGC_Hackathon_2021
